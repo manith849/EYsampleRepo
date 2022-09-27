@@ -1,0 +1,9 @@
+To initialize a local repo:
+1. git init 
+2. git status - to check the untracked files
+3. git add . - current folder files are added for tracking
+4. git commit -m "message" - to add the tracked files to the local repo
+5. git remote add origin <url> - to map the local repo to remote repo
+6. git push origin master - to push the data to remote github
+
+
